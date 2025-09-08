@@ -18,6 +18,9 @@
         <TextBlock Name="totalChargeAfterAddingTextBlock" HorizontalAlignment="Left" Height="23" Margin="198,206,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.616,1.406"/>
         <Label Content="Total charge after adding &#xA; the wrapping fee $:" HorizontalAlignment="Left" Height="39" Margin="48,234,0,0" VerticalAlignment="Top" Width="172" RenderTransformOrigin="0.512,-0.878"/>
         <TextBlock Name="totalChargeAfterWrappingTextBlock" HorizontalAlignment="Left" Height="23" Margin="210,250,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.616,1.406"/>
+        <Label Content="Total charge after adding &#xA; GST $:" HorizontalAlignment="Left" Height="39" Margin="46,268,0,0" VerticalAlignment="Top" Width="172" RenderTransformOrigin="0.512,-0.878"/>
+        <TextBlock Name="totalChargeAfterGSTTextBlock" HorizontalAlignment="Left" Height="23" Margin="218,278,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.616,1.406"/>
+        
         
     </Grid>
 </Window>
